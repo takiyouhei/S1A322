@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body{
+    height: 100vh;
+    margin: 0;
+    background: url(img/uuu.gif) #9fd9f6
+    left top repeat;
+    background-size: 50px 50px;
+}
