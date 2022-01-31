@@ -1,24 +1,23 @@
 @charset "UTF-8";
 /*ここから */
 *{
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 .content{
-  box-sizing:content-box;
+  box-sizing: content-box;
 }
-first p{
-  width:300px;
-  padding:20px;
-  border:6px solid #00f
-  margin:30px auto;
-  background-coler:#eee
-  tezt-align:center 
+.first p{
+  width: 300px;
+  padding: 20px;
+  border: 6px solid#00f;
+  margin: 30px auto;
+  background-color: #eee;
+  text-align: center;
 }
 .first p::first-line{
   font-weight: bold;
   font-size: 1.2em;
 }
-
 /*ここまで */
 .second {
   background-color: #ffc;
